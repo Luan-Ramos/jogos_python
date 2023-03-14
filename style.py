@@ -1,0 +1,7 @@
+def lightcyan(y): print(f'\033[96m{y}\033[m')
+def red(y): print(f'\033[91m{y}\033[m')
+def green(y): print(f'\033[92m{y}\033[m')
+def yellow(y): print(f'\033[93m{y}\033[m')
+def lightblue(y): print(f'\033[94m{y}\033[m')
+def purple(y): print(f'\033[95m{y}\033[m')
+def orange(y): print(f'\033[33m{y}\033[m')
